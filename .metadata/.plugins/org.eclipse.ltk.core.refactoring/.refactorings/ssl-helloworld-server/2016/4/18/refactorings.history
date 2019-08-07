@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;localkeystore.jks&apos; to &apos;ssl-helloworld-server/src/main/resource/com.rpsign.net.helloworld.server.app&apos;&#x0D;&#x0A;- Original project: &apos;ssl-helloworld-server&apos;&#x0D;&#x0A;- Destination element: &apos;ssl-helloworld-server/src/main/resource/com.rpsign.net.helloworld.server.app&apos;&#x0D;&#x0A;- Original element: &apos;localkeystore.jks&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src\/main\/resource&lt;com.rpsign.net.helloworld.server.app" element1="src/main/resource/localkeystore.jks" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1461991402259" units="0" version="1.0"/>
+</session>

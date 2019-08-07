@@ -1,0 +1,5 @@
+package com.rpsoft.dlink.router.client;
+
+public class RouterConnector {
+
+}

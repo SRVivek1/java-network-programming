@@ -1,0 +1,11 @@
+package com.rpsoft.dlink.router.client;
+
+import org.apache.http.client.HttpClient;
+import org.apache.http.impl.client.HttpClientBuilder;
+
+public class RouterConnector {
+
+	public void connect(final String url) {
+		final HttpClient httpClient = HttpClientBuilder.create().build();
+	}
+}

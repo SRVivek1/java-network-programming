@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="javax.net.ssl.SSLServerSocketFactory"/>
+<fullyQualifiedTypeName name="java.net.ServerSocket"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.security.SecureRandom"/>
+<fullyQualifiedTypeName name="javax.net.ssl.HttpsURLConnection"/>
+<fullyQualifiedTypeName name="javax.net.ssl.HostnameVerifier"/>
+<fullyQualifiedTypeName name="javax.net.ssl.SSLSession"/>
+<fullyQualifiedTypeName name="com.rpsing.net.ws.client.stub.GreetingService"/>
+<fullyQualifiedTypeName name="com.rpsing.net.ws.client.stub.GreetingServicePort"/>
+<fullyQualifiedTypeName name="com.rpsing.net.ws.client.stub.PersonName"/>
+<fullyQualifiedTypeName name="java.net.InetSocketAddress"/>
+<fullyQualifiedTypeName name="com.sun.net.httpserver.HttpServer"/>
+<fullyQualifiedTypeName name="com.sun.net.httpserver.HttpHandler"/>
+<fullyQualifiedTypeName name="com.sun.net.httpserver.HttpExchange"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="com.sun.net.httpserver.HttpsServer"/>
+<fullyQualifiedTypeName name="java.net.InetAddress"/>
+<fullyQualifiedTypeName name="javax.net.ssl.SSLContext"/>
+<fullyQualifiedTypeName name="java.security.KeyStore"/>
+<fullyQualifiedTypeName name="javax.net.ssl.TrustManagerFactory"/>
+<fullyQualifiedTypeName name="javax.net.ssl.KeyManagerFactory"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.sun.net.httpserver.HttpContext"/>
+<fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
+<fullyQualifiedTypeName name="com.rpsoft.rest.ws.simulator.server.impl.Calculator.Result"/>
+<fullyQualifiedTypeName name="com.rpsoft.rest.ws.simulator.server.impl.Calculator"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.client.api.Result"/>
+<fullyQualifiedTypeName name="com.rpsoft.rest.ws.simulator.server.bean.Result"/>
+<fullyQualifiedTypeName name="javax.net.ssl.SSLSessionBindingListener"/>
+<fullyQualifiedTypeName name="com.rpsoft.rest.ws.simulator.server.RestServerApp"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="com.rpsoft.ws.ntlm.client.Service1"/>
+<fullyQualifiedTypeName name="org.bhoopen.ntlm.ws.client.PersonName"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,30 @@
+package com.rpsoft.dlink.router.client;
+
+import java.io.IOException;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.HttpClientBuilder;
+
+public class RouterConnector {
+
+	public void connect(final String url) {
+		
+		final String clientURL = "http://10.10.10.10/index.asp";
+		
+		final HttpClient httpClient = HttpClientBuilder.create().build();
+		
+		final HttpGet httpGet = new HttpGet(clientURL);
+		
+		final HttpResponse httpResponse;
+		try {
+			httpResponse = httpClient.execute(httpGet);
+		} catch (ClientProtocolException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+}

@@ -1,0 +1,8 @@
+package com.rpsoft.dlink.router.client;
+
+public class RouterConnector {
+
+	public void connect(final String url) {
+
+	}
+}

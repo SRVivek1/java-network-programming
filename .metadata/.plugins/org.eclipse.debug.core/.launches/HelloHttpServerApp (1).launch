@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/103-java-http-server-with-multiple-contexts/src/main/java/com/rpsoft/net/http/server/HelloHttpServerApp.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.rpsoft.net.http.server.HelloHttpServerApp"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="103-java-http-server-with-multiple-contexts"/>
+</launchConfiguration>
