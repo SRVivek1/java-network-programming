@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;dlink-router-http-client&apos;" deleteContents="true" description="Delete resource &apos;dlink-router-http-client&apos;" element1="/dlink-router-http-client" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1565246742271"/>
+</session>

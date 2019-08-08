@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-<entry loc="C:\SWTools\Java\jdk1.8.0_11" stamp="1438625348397"/>
-<entry loc="C:\Program Files\Java\jre7" stamp="1474209602885"/>
 <entry loc="C:\SWTools\Java\jdk1.7.0_67" stamp="1437912086451"/>
+<entry loc="C:\Program Files\Java\jre7" stamp="1474209602885"/>
+<entry loc="C:\SWTools\Java\jdk1.8.0_11" stamp="1438625348397"/>
+<entry loc="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102" stamp="1545739274487"/>
 </dirs>
